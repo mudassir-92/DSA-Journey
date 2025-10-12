@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mudassir-92/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/mudassir-92/DSA-Journey/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudassir-92/DSA-Journey/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mudassir-92/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mudassir-92/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
