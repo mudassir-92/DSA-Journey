@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/mudassir-92/DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mudassir-92/DSA-Journey/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/mudassir-92/DSA-Journey/tree/master/0077-combinations) |
 ## Math
 |  |
 | ------- |
