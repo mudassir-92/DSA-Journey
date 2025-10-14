@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mudassir-92/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/mudassir-92/DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mudassir-92/DSA-Journey/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/mudassir-92/DSA-Journey/tree/master/0077-combinations) |
@@ -41,5 +42,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mudassir-92/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0273-integer-to-english-words](https://github.com/mudassir-92/DSA-Journey/tree/master/0273-integer-to-english-words) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mudassir-92/DSA-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
