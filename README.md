@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudassir-92/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mudassir-92/DSA-Journey/tree/master/0007-reverse-integer) |
+| [0273-integer-to-english-words](https://github.com/mudassir-92/DSA-Journey/tree/master/0273-integer-to-english-words) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mudassir-92/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0273-integer-to-english-words](https://github.com/mudassir-92/DSA-Journey/tree/master/0273-integer-to-english-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mudassir-92/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/mudassir-92/DSA-Journey/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
