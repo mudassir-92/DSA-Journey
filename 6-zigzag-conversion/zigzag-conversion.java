@@ -5,7 +5,7 @@ class Solution {
         int l=s.length();
         char[] arr = s.toCharArray();
         int index=0;
-        System.out.println(l);
+        // System.out.println(l);
         StringBuilder str=new StringBuilder(l);
         // let's build
         int cols=(l/numRows)/2+l/(Math.max(numRows-2,1))+500;
@@ -14,7 +14,7 @@ class Solution {
         char [][] grid=new char[numRows][cols];
         int row=0,col=0;
 
-        buildDown:
+        // buildDown:
         while (true)
         {
             for (int i = row; i < numRows; i++) {
@@ -28,7 +28,7 @@ class Solution {
             for (int i = numRows-2; i >=0 ; i--) {
 //                System.out.println(i);
                 if(index>=l) {
-                    System.out.println(index);
+                    // System.out.println(index);
                     break ;
                 }
                 grid[i][++col]=arr[index++];
@@ -37,7 +37,7 @@ class Solution {
 //            --col;
             if(index>=l)
             {
-                break buildDown;
+                break;
             }
         }
 
