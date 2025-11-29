@@ -17,7 +17,7 @@ Solving problems daily, learning patterns, and improving speed like a machine ğŸ
 
 ### ğŸ”¥ LeetCode Progress Card
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mudassir920?theme=dark&border=1&radius=10&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/mudassir_920?theme=dark&border=1&radius=10&ext=heatmap" />
 </p>
 
 
