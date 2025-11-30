@@ -80,7 +80,7 @@ public class Solution {
             if(VeryGood())
                 break;
         }
-        System.out.println("You're in Fanf");
+        System.out.println("You're in FAANG");
     }
 }
 ```
